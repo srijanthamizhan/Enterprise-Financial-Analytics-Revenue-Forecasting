@@ -1,4 +1,4 @@
-# Enterprise Financial Analytics & Revenue Forecasting (BigQuery)
+# Enterprise Financial Analytics & Revenue Forecasting 
 
 ## Project Overview
 
