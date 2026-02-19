@@ -42,14 +42,6 @@ multiple regions, segments, and product categories.
 
 ------------------------------------------------------------------------
 
-## Project Structure
-
-enterprise-financial-analytics/ │ ├── index.html (Executive Dashboard)
-├── bigquery_setup.sql (Table creation + data generation) ├──
-financial_analysis.sql (Analytics queries + forecasting) ├── README.md
-
-------------------------------------------------------------------------
-
 ## How to Run
 
 1.  Open Google BigQuery
@@ -61,5 +53,6 @@ financial_analysis.sql (Analytics queries + forecasting) ├── README.md
 
 ## Author
 
+Srijan Thamizhan
 Financial Analytics Portfolio Project\
 Built using SQL and Google BigQuery
