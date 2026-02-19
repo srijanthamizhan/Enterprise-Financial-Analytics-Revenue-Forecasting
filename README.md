@@ -53,6 +53,4 @@ multiple regions, segments, and product categories.
 
 ## Author
 
-Srijan Thamizhan
-Financial Analytics Portfolio Project\
-Built using SQL and Google BigQuery
+Srijan Thamizhan \ Financial Analytics Portfolio Project \ Built using SQL and Google BigQuery
