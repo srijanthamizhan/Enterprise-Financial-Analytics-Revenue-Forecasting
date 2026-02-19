@@ -47,7 +47,7 @@ multiple regions, segments, and product categories.
 1.  Open Google BigQuery
 2.  Run the setup script (bigquery_setup.sql)
 3.  Run the analysis script (financial_analysis.sql)
-4.  Open index.html to view dashboard visualizations
+4.  Download enterprise_financial_dashboard.html to view dashboard visualizations
 
 ------------------------------------------------------------------------
 
