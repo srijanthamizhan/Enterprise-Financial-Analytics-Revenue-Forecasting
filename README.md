@@ -3,11 +3,8 @@
 ## Project Overview
 
 This project demonstrates end-to-end financial data analysis using
-Google BigQuery.\
-It includes data warehouse design, advanced SQL analytics, KPI
-reporting, and revenue forecasting using BigQuery ML.
-
-The dataset simulates 5,000+ enterprise financial transactions across
+Google BigQuery. It includes data warehouse design, advanced SQL analytics, KPI
+reporting, and revenue forecasting using BigQuery ML. The dataset simulates 5,000+ enterprise financial transactions across
 multiple regions, segments, and product categories.
 
 ------------------------------------------------------------------------
