@@ -60,4 +60,4 @@ enabling predictive financial planning.
 
 1.  Run `bigquery_setup.sql`
 2.  Run `financial_analysis.sql`
-3.  Open `index.html` for interactive dashboard
+3.  Open `enterprise_financial_dashboard.html` for interactive dashboard
